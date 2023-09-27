@@ -1,4 +1,4 @@
-Month,temp_degrees_celcius,wind_speed_m/s,humidity_%
+month,temp_degrees_celcius,wind_speed_m/s,humidity_%
 1,17.99,5.29,68.57
 2,19.57,4.98,63.21
 3,21.96,4.6,54.78
